@@ -1,0 +1,192 @@
+
+*{
+    color: white;
+    font-weight: bolder;
+
+}
+.mein{
+    width: 300px;
+    height: 450px;
+    background-color: rgb(27, 26, 26);
+    position: absolute;
+    border-radius: 10px;
+    margin: 0 auto;
+    position: relative;
+    box-shadow: 5px 5px 30px black;
+}
+.result .result1{
+    width: 292px;
+    height: 70px;
+    margin-top: 40px;
+    direction: rtl;
+    word-spacing: 5px;
+    color: black;
+    font-size: 20px;
+    background-color: rgb(123, 120, 120);
+}
+.all{
+    text-align: center;
+    margin-top: 130px;
+}
+/* batton level one */
+.lebel1 input{
+    width: 60px;
+    height:40px;
+    box-shadow: 0px 0px 10px;
+    background-color: black;
+    border-radius: 5px;
+}
+.lebel1 input.btn1{
+    color: rgb(245, 245, 245);
+    background-color: red;
+ }
+.lebel1{
+    margin-top: -110px;
+ }
+ .lebel1 input.btn1:hover{
+    color: rgb(255, 253, 253);
+    cursor: pointer;
+ }
+ .lebel1 input.btn2:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel1 input.btn3:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel1 input.btn4:hover{
+   box-shadow: 0px 0px 10px black;
+    background-color: blue;
+    cursor: pointer;
+ }
+ 
+ /* batton level one */
+
+  /* batton level two */
+.lebel2 input{
+    width: 60px;
+    height:40px;
+    box-shadow: 0px 0px 10px;
+    background-color: black;
+    border-radius: 5px;
+}
+.lebel2{
+    margin-top: 20px;
+ }
+ .lebel2 input.btn5:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+
+ .lebel2 input.btn6:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel2 input.btn7:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel2 input.btn8:hover{
+   box-shadow: 0px 0px 10px black;
+    background-color: blue;
+    cursor: pointer;
+ }
+ 
+ /* batton level two */
+
+  /* batton level three */
+.lebel3 input{
+    width: 60px;
+    height:40px;
+    box-shadow: 0px 0px 10px;
+    background-color: black;
+    border-radius: 5px;
+}
+.lebel3{
+    margin-top: 20px;
+ }
+ .lebel3 input.btn9:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel3 input.btn10:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel3 input.btn11:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ } 
+ .lebel3 input.btn12:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+    background-color: blue;
+ }
+ 
+ /* batton level three */
+
+ /* batton level four */
+.lebel4 input{
+    width: 60px;
+    height:40px;
+    box-shadow: 0px 0px 10px;
+    background-color: black;
+    border-radius: 5px;
+}
+.lebel4{
+    margin-top: 20px;
+    cursor: pointer;
+ }
+ .lebel4 input.btn13:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel4 input.btn14:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel4 input.btn15:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel4 input.btn16:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+    background-color: blue;
+ }
+    /* batton level four */
+
+        /* batton level five */
+.lebel5 input{
+    width: 60px;
+    height:40px;
+    box-shadow: 0px 0px 10px;
+    background-color: black;
+    border-radius: 5px;
+}
+.lebel5{
+    margin-top: 20px;
+ }
+ .lebel5 input.btn17:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+   
+ }
+  .lebel5 input.btn18:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel5 input.btn19:hover{
+   box-shadow: 0px 0px 10px black;
+    cursor: pointer;
+ }
+ .lebel5 input.btn20:hover{
+   box-shadow: 0px 0px 10px black;
+    background-color: blue;
+    cursor: pointer;
+ }
+    /* batton level five */
+    input{
+      border: none;
+    }
